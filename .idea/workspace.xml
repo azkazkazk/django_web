@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb8b3ec9-eeb3-4b24-81cb-d34c0f4cc973" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Ynxunh7vm5fAqnLIHb91aRMdUM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/myclient" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/myclient" />
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.client">
+    <configuration name="home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web2/templates/home.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web2/templates/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web2/templates/login.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="rate.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web2/templates/rate.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myclient" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myclient/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="web2" type="Python.DjangoServer" factoryName="Django server">
+      <module name="web2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="web2.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.web2" />
+      <item itemvalue="JavaScript Debug.home.html" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.login.html" />
+      <item itemvalue="JavaScript Debug.rate.html" />
+      <item itemvalue="Python.client" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.client" />
+        <item itemvalue="JavaScript Debug.rate.html" />
+        <item itemvalue="JavaScript Debug.login.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.home.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb8b3ec9-eeb3-4b24-81cb-d34c0f4cc973" name="Default Changelist" comment="" />
+      <created>1583592384995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583592384995</updated>
+      <workItem from="1583592400789" duration="6084000" />
+      <workItem from="1583673769233" duration="12314000" />
+      <workItem from="1583746569524" duration="6971000" />
+      <workItem from="1583755365989" duration="18620000" />
+      <workItem from="1583915766196" duration="1685000" />
+      <workItem from="1583918852242" duration="268000" />
+      <workItem from="1583919123359" duration="488000" />
+      <workItem from="1583919615039" duration="4048000" />
+      <workItem from="1583946568751" duration="1840000" />
+      <workItem from="1583974775012" duration="129000" />
+      <workItem from="1584011419147" duration="944000" />
+      <workItem from="1584012381369" duration="6523000" />
+      <workItem from="1584018977455" duration="7448000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="342" y="158" key="#Notifications" timestamp="1584023505124">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="342" y="158" key="#Notifications/0.23.1440.877@0.23.1440.877" timestamp="1584023505124" />
+    <state x="320" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583759853270">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1583759853270" />
+    <state x="475" y="292" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584023647040">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="475" y="292" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1584023647040" />
+    <state width="1280" height="212" key="GridCell.Tab.0.bottom" timestamp="1584031509142">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1280" height="212" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1584031509142" />
+    <state width="1280" height="212" key="GridCell.Tab.0.center" timestamp="1584031509142">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1280" height="212" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1584031509142" />
+    <state width="1280" height="212" key="GridCell.Tab.0.left" timestamp="1584031509141">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1280" height="212" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1584031509141" />
+    <state width="1280" height="212" key="GridCell.Tab.0.right" timestamp="1584031509142">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1280" height="212" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1584031509142" />
+    <state x="591" y="356" width="340" height="249" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1584013686089">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="591" y="356" width="340" height="249" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.23.1440.877@0.23.1440.877" timestamp="1584013686089" />
+    <state x="289" y="123" key="com.intellij.database.dbimport.ImportDialog" timestamp="1584013650507">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="289" y="123" key="com.intellij.database.dbimport.ImportDialog/0.23.1440.877@0.23.1440.877" timestamp="1584013650507" />
+    <state x="439" y="273" key="com.intellij.database.dbimport.ImportUtil.MyDialog" timestamp="1584013645101">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="439" y="273" key="com.intellij.database.dbimport.ImportUtil.MyDialog/0.23.1440.877@0.23.1440.877" timestamp="1584013645101" />
+    <state x="327" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1583919162491">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="327" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1583919162491" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/web2$client.coverage" NAME="client Coverage Results" MODIFIED="1584023711657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myclient" />
+  </component>
+</project>
